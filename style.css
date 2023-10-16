@@ -131,7 +131,6 @@
 
   body{
     background-color: rgb(0, 0, 0);
-    overflow: hidden;
     background-image: url("https://web.archive.org/web/20090822002052/http://geocities.com/algameh/cowboyani4.gif");
   }
 
@@ -161,7 +160,7 @@
 
   #sword{
     position: relative;
-    top: -1750px;
+    top: -1840px;
     left: -1020px;
     animation: scroll 5s linear infinite;
   }
@@ -174,8 +173,8 @@
 
   #green{
     position: relative;
-    top: -600px;
-    left: -1600px;
+    top: -700px;
+    left: -1800px;
   }
 
   #chicken{
@@ -183,5 +182,31 @@
     top: -650px;
     left: 600px;
   }
-       
+
+  #inc2{
+    position: relative;
+    top: -650px;
+    left: 250px;
+  }
+
+  #debut{
+    position: relative;
+    top: -550px;
+    left: -550px;
+  }
+
+  #kringle{
+    position: relative;
+    top:  -500px;
+    left:  1290px;
+    width: 400px;
+  }
+
+  #kringleimage{
+    position: relative;
+    top:   0px;
+    left:  15px;
+    width: 0px;
+  }
+         
                 
